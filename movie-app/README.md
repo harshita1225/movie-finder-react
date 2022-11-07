@@ -1,5 +1,7 @@
 # Open Movie Database API (OMDb API)
 
+live link [https://harshita1225.github.io/movie-finder-react/](https://harshita1225.github.io/movie-finder-react/)
+
 In this project we will build Movie Search App using Fetch
 this is an example about this project deployed with netlify
 [movie-search-app](https://compassionate-stonebraker-36a5b5.netlify.app/)
